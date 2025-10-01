@@ -1,10 +1,13 @@
 [project]
-name = "repl-nix-workspace"
-version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.11"
+name = "telegram-bot"
+version = "1.0.0"
+description = "Advanced Telegram Bot"
 dependencies = [
-    "apscheduler>=3.11.0",
-    "flask>=3.1.2",
-    "python-telegram-bot>=22.5",
+    "python-telegram-bot>=20.0",
+    "apscheduler>=3.10.0", 
+    "pillow>=10.0.0",
+    "flask>=2.0.0"
 ]
+
+[build-system]
+requires = ["setuptools", "wheel"]
