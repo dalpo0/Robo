@@ -180,6 +180,80 @@ user_data = {
             {'word': 'nebulous', 'hint': 'Vague or ill-defined', 'category': 'general'},
             {'word': 'quantum', 'hint': 'Relating to quantum mechanics', 'category': 'science'},
             {'word': 'syntax', 'hint': 'Arrangement in programming', 'category': 'tech'}
+            MEME_URLS = [
+    "https://i.imgflip.com/30b1gx.jpg",
+    "https://i.imgflip.com/1bij.jpg",
+    "https://i.imgflip.com/1g8my4.jpg",
+    "https://i.imgflip.com/1otk96.jpg",
+    "https://i.imgflip.com/261o3j.jpg",
+    "https://i.imgflip.com/1c1uej.jpg",
+    "https://i.imgflip.com/1h7in3.jpg",
+    "https://i.imgflip.com/1e7ql7.jpg",
+    "https://i.imgflip.com/1b42wb.jpg",
+    "https://i.imgflip.com/1bim.jpg",
+    "https://i.imgflip.com/1bip.jpg",
+    "https://i.imgflip.com/1bix.jpg",
+    "https://i.imgflip.com/1bgw.jpg",
+    "https://i.imgflip.com/1bhf.jpg",
+    "https://i.imgflip.com/1bhk.jpg",
+    "https://i.imgflip.com/1bh8.jpg",
+    "https://i.imgflip.com/1bhm.jpg",
+    "https://i.imgflip.com/1bhn.jpg",
+    "https://i.imgflip.com/1bh3.jpg",
+    "https://i.imgflip.com/1bh1.jpg",
+    "https://i.imgflip.com/1bh5.jpg",
+    "https://i.imgflip.com/1bh6.jpg",
+    "https://i.imgflip.com/1bh7.jpg",
+    "https://i.imgflip.com/1bh9.jpg",
+    "https://i.imgflip.com/1bh0.jpg",
+    "https://i.imgflip.com/1bh2.jpg",
+    "https://i.imgflip.com/1bh4.jpg",
+    "https://i.imgflip.com/1bha.jpg",
+    "https://i.imgflip.com/1bhb.jpg",
+    "https://i.imgflip.com/1bhc.jpg"
+]
+                     GIF_MEMES = [
+    # Popular GIF Memes
+    "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",  # Michael Jackson eating popcorn
+    "https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif",  # Success kid
+    "https://media.giphy.com/media/l0HlRnAWXxn0Mlklq/giphy.gif",   # Dancing hotdog
+    "https://media.giphy.com/media/26uf759LlDftqZNVm/giphy.gif",   # Crying cat
+    "https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif",   # Laughing crying emoji
+    "https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif",  # Mind blown
+    "https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif",   # Facepalm
+    "https://media.giphy.com/media/3o7abGQa0aRsohveXK/giphy.gif",  # Surprised Pikachu
+    "https://media.giphy.com/media/l0Exk8EUzSLq8z22A/giphy.gif",   # Evil laugh
+    "https://media.giphy.com/media/3o7TKSha51ATTx9KzC/giphy.gif",  # Running away
+    
+    # Reaction GIFs
+    "https://media.giphy.com/media/3o7aD2saQhRlQV73EQ/giphy.gif",  # Thumbs up
+    "https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif",   # Slow clap
+    "https://media.giphy.com/media/3o7WTGhpDf1R5Wx72Y/giphy.gif",  # Eye roll
+    "https://media.giphy.com/media/l0HlTYWKW2j0pw5bi/giphy.gif",   # Shrug
+    "https://media.giphy.com/media/3o7TKr3eGmhqNkoXh6/giphy.gif",  # Nodding yes
+    "https://media.giphy.com/media/l0HlNrhRXKxK1QNnq/giphy.gif",   # Shaking head no
+    
+    # Animal GIFs
+    "https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif",  # Excited dog
+    "https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif",       # Cat typing
+    "https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif",      # Puppy eyes
+    "https://media.giphy.com/media/3o85xGocUH8RYoDKKs/giphy.gif",  # Dancing parrot
+    "https://media.giphy.com/media/3o7TKsQ7X1Pm5mQvWM/giphy.gif",  # Bunny eating
+    
+    # Funny Moments
+    "https://media.giphy.com/media/l0HlSHXwzmxqdQkBy/giphy.gif",   # Laughing on floor
+    "https://media.giphy.com/media/3o7aD4Rf3E0zRkZQzC/giphy.gif",  # Spitting drink
+    "https://media.giphy.com/media/l0HlNpBfYxGzKk3bi/giphy.gif",   # Falling down
+    "https://media.giphy.com/media/3o7TKsQ7X1Pm5mQvWM/giphy.gif",  # Confused math
+    "https://media.giphy.com/media/l0HlTYWKW2j0pw5bi/giphy.gif",   # This is fine (dog in fire)
+    
+    # Celebrity GIFs
+    "https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif",   # Leonardo DiCaprio cheers
+    "https://media.giphy.com/media/3o7aD4Rf3E0zRkZQzC/giphy.gif",  # Will Smith confused
+    "https://media.giphy.com/media/l0HlNpBfYxGzKk3bi/giphy.gif",   # Johnny Depp drinking
+    "https://media.giphy.com/media/3o7TKsQ7X1Pm5mQvWM/giphy.gif",  # Ryan Reynolds laughing
+    "https://media.giphy.com/media/l0HlTYWKW2j0pw5bi/giphy.gif"    # The Rock eyebrow
+]
         ],
         'categories': ['tech', 'science', 'general']
     },
